@@ -80,6 +80,18 @@ mvn spring-boot:run
 #### Post logs
 ![POST_LOGS.gif](./images/POST_LOGS.gif)
 
+## Desenvolvido Por:
+
+### Márcio Barroso
+https://www.linkedin.com/in/marcio-barroso-569234181/
+### André Horman
+https://www.linkedin.com/in/andrehorman/
+### Brune Miguel
+https://www.linkedin.com/in/brunefreire/
+### Rafael Machado Guimarães
+https://www.linkedin.com/in/rafaelmguimaraes
+### Jessica Paula
+https://www.linkedin.com/in/jessica-ladislau/
 
 
 
