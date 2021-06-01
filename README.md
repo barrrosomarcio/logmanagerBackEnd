@@ -27,15 +27,6 @@ Abaixo estão os requisitos desta API, o time terá total liberdade para tomar a
 
 Essa aplicação backend, em Java, foi pensada de modo que os endpoints criados possam ser acessados por uma aplicação frontend, que exibirá todos os LOGs de erros persistidos em um banco de dados SQL. A aplicação contará com autenticação através de token, reforçando as premissas de segurança, e os dados exibidos ao usuário serão filtrados através da camada DTO da aplicação.
 
-## Preparando ambiente
-
-```javascript
-sudo apt install maven
-git clone git@github.com:ANDREHORMAN1994/PROJETO-LOG-MANAGER.git
-cd PROJETO-LOG-MANAGER
-mvn clean install
-mvn spring-boot:run
-```
 
 ## Recursos
 
